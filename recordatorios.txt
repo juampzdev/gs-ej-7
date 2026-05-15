@@ -1,1 +1,3 @@
 Hacer push después de cada commit.
+
+Verificar rama actual antes de mergear.
